@@ -23,8 +23,8 @@ const writeFile = util.promisify(fs.writeFile);
 
 // Authentication Configuration
 const webhookUser = {
-  name: 'muxer',
-  pass: 'muxology',
+  name: 'mux',
+  pass: 'mux',
 };
 
 // Authentication Middleware
